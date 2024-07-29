@@ -168,13 +168,7 @@ Here are some projects that I'm proud of. Feel free to explore and see what I've
 
 - **Email:** [alishareddykondapu@example.com](mailto:alishareddykondapu@example.com)
 - **LinkedIn:** [linkedin.com/in/alishareddykondapu](https://www.linkedin.com/in/alishareddykondapu)
-- **Twitter:** [@AlishaRKondapu](https://twitter.com/AlishaRKondapu)
 
----
-
-### 🎉 Fun Fact
-
-I believe that every line of code is a journey of discovery, a chance to solve problems and create something new. When I'm not coding, you might find me exploring new technologies, engaging in tech communities, or enjoying a good book on blockchain innovation.
 
 ---
 
