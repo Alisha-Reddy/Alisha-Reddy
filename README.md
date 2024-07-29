@@ -123,55 +123,13 @@ Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passio
 
 ---
 
-### 🌟 Highlighted Projects
-
-Here are some projects that I'm proud of. Feel free to explore and see what I've been working on:
-
-#### 🌐 [Crowdfunding dApp](https://github.com/AlishaReddyKondapu/crowdfunding-dapp)
-- **Description:** A decentralized crowdfunding platform enabling users to raise funds securely through Ethereum smart contracts.
-- **Tech Stack:** Solidity, React, Ethers.js, Hardhat
-- **Features:**
-  - Secure fund management with smart contracts
-  - Real-time updates and transparent fund tracking
-  - User-friendly interface for campaign management
-
-#### 🎲 [Lottery Smart Contract](https://github.com/AlishaReddyKondapu/lottery-smart-contract)
-- **Description:** A smart contract-based lottery system leveraging Chainlink VRF V2 for unbiased winner selection.
-- **Tech Stack:** Solidity, Hardhat, Chainlink
-- **Features:**
-  - Automated random winner selection
-  - Efficient gas usage and secure transaction handling
-  - Comprehensive unit tests for reliability
-
-#### 🔑 [Crypto Wallet Manager](https://github.com/AlishaReddyKondapu/crypto-wallet-manager)
-- **Description:** A web application for managing cryptocurrency wallets and transactions with a focus on security and user experience.
-- **Tech Stack:** React, Node.js, Express, Web3.js
-- **Features:**
-  - Intuitive wallet interface and transaction management
-  - Secure cryptographic functions for private key handling
-  - Real-time balance and transaction tracking
-
----
-
-### 🎓 Education
-
-- **Ethereum Developer Bootcamp** at [Alchemy University](https://university.alchemy.com/)
-  - Courses: Solidity, JavaScript, Blockchain Cryptography, Ethereum
-  - Projects: ECDSA Node Project, Merkle Gift List
-
----
-
-### 📫 Let's Connect
-
-- **Email:** [alishareddykondapu@example.com](mailto:alishareddykondapu@example.com)
-- **LinkedIn:** [linkedin.com/in/alishareddykondapu](https://www.linkedin.com/in/alishareddykondapu)
 
 
 ---
 
 ### 📈 Fun GitHub Contribution Graph
 
-![Alisha's GitHub Contribution Graph](https://github-contributor-stats.vercel.app/api?username=AlishaReddyKondapu&theme=dracula)
+![Alisha's GitHub Contribution Graph](https://github-contributor-stats.vercel.app/api?username=Alisha-Reddy&theme=dracula)
 
 ---
 
