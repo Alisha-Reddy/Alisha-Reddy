@@ -4,7 +4,7 @@
 **`Future-Ready Developer | Bridging Blockchain and Full-Stack Technologies`**
 Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passionate blockchain developer that specializes in designing new solutions using Ethereum and smart contracts. I enjoy solving challenging problems with elegant code and creating cutting-edge technological applications.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisha-Reddy)](https://github.com/anuraghazra/github-readme-stats)
+
 
 > "In code we trust. Every line is an opportunity to make something incredible."
 
@@ -21,10 +21,6 @@ Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passio
 - Deep diving into **Solidity** and **JavaScript** at [Alchemy University](https://university.alchemy.com/).
 - Exploring blockchain cryptography and decentralized storage solutions.
 - Completing hands-on projects to hone my skills in smart contract development.
-
-🤝 **Open for Collaboration:**
-- Open to collaborating on innovative blockchain projects, DeFi applications, and anything related to Ethereum.
-- Interested in contributing to open-source projects and engaging with the developer community.
 
 ---
 
@@ -49,7 +45,7 @@ Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passio
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlishaReddyKondapu&show_icons=true&theme=dracula&count_private=true)
+[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisha-Reddy)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlishaReddyKondapu&layout=compact&theme=dracula)
 
