@@ -90,14 +90,6 @@ Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passio
   </div>
 </div>
 
-
-
-
-
-
-
-
-
 ---
 
 ### 👩‍💻 Having fun coding
