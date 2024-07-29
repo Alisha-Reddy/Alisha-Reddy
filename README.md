@@ -52,27 +52,31 @@ Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passio
 
 ### 📊 GitHub Activity
 
-  <!-- GitHub Stats, Most Used Languages, and Streak Stats -->
-  <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; max-width: 1000px; margin: 0 auto;">
-    <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=alisha-reddy&show_icons=true&locale=en" alt="GitHub stats for Alisha Reddy" height="180" width="320" />
-
-  <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alisha-reddy&show_icons=true&locale=en&layout=compact" alt="Most used languages by Alisha Reddy" height="180" width="320" />
-  
-
-
-   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisha-reddy" alt="GitHub streak stats for Alisha Reddy" height="180" width="320" />
+<!-- GitHub Stats, Most Used Languages, and Streak Stats -->
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; max-width: 1000px; margin: 20px auto;">
+  <!-- GitHub Stats Card -->
+  <div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 15px; width: 320px; height: 220px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=alisha-reddy&show_icons=true&locale=en" alt="GitHub stats for Alisha Reddy" style="width: 100%; height: auto; border-radius: 8px;" />
   </div>
 
- 
+  <!-- Most Used Languages Card -->
+  <div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 15px; width: 320px; height: 220px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alisha-reddy&show_icons=true&locale=en&layout=compact" alt="Most used languages by Alisha Reddy" style="width: 100%; height: auto; border-radius: 8px;" />
+  </div>
 
-<div align="left">
-  <!-- Profile Views Counter -->
+  <!-- GitHub Streak Stats Card -->
+  <div style="background-color: white; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); padding: 15px; width: 320px; height: 220px; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisha-reddy" alt="GitHub streak stats for Alisha Reddy" style="width: 100%; height: auto; border-radius: 8px;" />
+  </div>
+</div>
+
+<!-- Profile Views Counter -->
+<div align="center" style="margin-top: 20px;">
   <p>
     <img src="https://komarev.com/ghpvc/?username=alisha-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views of Alisha Reddy" />
   </p>
+</div>
+
 
 ---
 
