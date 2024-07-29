@@ -123,17 +123,7 @@ Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passio
 
 ---
 
-
-
----
-
-### 📈 Fun GitHub Contribution Graph
-
-![Alisha's GitHub Contribution Graph](https://github-contributor-stats.vercel.app/api?username=Alisha-Reddy&theme=dracula)
-
----
-
-### 👩‍💻 Favorite Code Snippet
+### 👩‍💻 Having fun coding
 
 ```solidity
 // SPDX-License-Identifier: MIT
