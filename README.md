@@ -58,11 +58,11 @@ Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passio
     <p align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=alisha-reddy&show_icons=true&locale=en" alt="alisha-reddy" />
     </p>
-    
+    <p></p>
     <p align="center">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisha-reddy&show_icons=true&locale=en&layout=compact" alt="alisha-reddy top languages" />
     </p>
-    
+    <p></p>
     <p align="center">
       <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alisha-reddy&" alt="alisha-reddy streak stats" />
     </p>
