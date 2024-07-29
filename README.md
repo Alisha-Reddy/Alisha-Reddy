@@ -53,7 +53,7 @@ Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passio
 ### 📊 GitHub Activity
 
 <!-- GitHub Stats, Most Used Languages, and Streak Stats -->
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 8px; max-width: 700px; margin: 20px auto;">
+<div style="display: flex; justify-content: center; margin: 20px;">
   <!-- GitHub Stats Card -->
   <div style="background-color: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); padding: 4px; width: 180px; height: 110px; display: flex; justify-content: center; align-items: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=alisha-reddy&show_icons=true&locale=en&theme=transparent" alt="GitHub stats for Alisha Reddy" style="width: 100%; height: auto; border-radius: 6px;" />
