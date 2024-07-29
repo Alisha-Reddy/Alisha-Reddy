@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Alisha</h1>
-<h3 align="center">A passionate full stack blockchain developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alisha-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="alisha-reddy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alisha-reddy" alt="alisha-reddy" /></a> </p>
 
-- 🔭 I’m currently working on [Lottery smart contract utilizing Chainlink VRF V2 and Chainlink Keepers for randomness and automation.](https://github.com/Alisha-Reddy/lottery_smartContract)
 
-- 🌱 Deep diving into **Solidity and JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
