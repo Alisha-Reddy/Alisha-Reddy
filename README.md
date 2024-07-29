@@ -1,9 +1,7 @@
+![Design and Development](https://github.com/Alisha-Reddy/Alisha-Reddy/blob/main/Github.png)
 # 👋 Hello there! 
 
 **`Future-Ready Developer | Bridging Blockchain and Full-Stack Technologies`**
-
-![Design and Development](https://github.com/Alisha-Reddy/Alisha-Reddy/blob/main/Github.png)
-
 Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passionate blockchain developer that specializes in designing new solutions using Ethereum and smart contracts. I enjoy solving challenging problems with elegant code and creating cutting-edge technological applications.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisha-Reddy)](https://github.com/anuraghazra/github-readme-stats)
