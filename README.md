@@ -45,9 +45,6 @@ Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passio
 
 <div align="center">
 
-[![ GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisha-Reddy)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlishaReddyKondapu&layout=compact&theme=dracula)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alisha-reddy&show_icons=true&locale=en&layout=compact" alt="alisha-reddy" /></p>
 
