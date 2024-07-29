@@ -60,12 +60,13 @@ Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passio
   <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px; max-width: 1000px; margin: 0 auto;">
     <!-- GitHub Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=alisha-reddy&show_icons=true&locale=en" alt="GitHub stats for Alisha Reddy" height="180" width="320" />
+     <!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=alisha-reddy&show_icons=true&locale=en&layout=compact" alt="Most used languages by Alisha Reddy" height="180" width="320" />
 
-    <!-- Most Used Languages -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alisha-reddy&show_icons=true&locale=en&layout=compact" alt="Most used languages by Alisha Reddy" height="180" width="320" />
+
 
     <!-- GitHub Streak Stats -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisha-reddy" alt="GitHub streak stats for Alisha Reddy" height="180" width="320" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisha-reddy" alt="GitHub streak stats for Alisha Reddy" height="180" width="320" />
   </div>
 
   <!-- Technology Icons -->
