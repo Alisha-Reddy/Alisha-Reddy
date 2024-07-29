@@ -51,17 +51,23 @@ Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passio
 ---
 
 ### 📊 GitHub Activity
+<!-- Profile Views Counter -->
+<div style="margin-top: 10px;">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=alisha-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views of Alisha Reddy" />
+  </p>
+</div>
 
 <!-- GitHub Stats, Most Used Languages, and Streak Stats -->
+  <!-- Most Used Languages Card -->
+
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alisha-reddy&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Most used languages by Alisha Reddy" />
 
   <!-- GitHub Stats Card -->
 
   <img src="https://github-readme-stats.vercel.app/api?username=alisha-reddy&show_icons=true&locale=en&theme=transparent" alt="GitHub stats for Alisha Reddy" />
 
 
-  <!-- Most Used Languages Card -->
-
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alisha-reddy&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Most used languages by Alisha Reddy" />
 
 
   <!-- GitHub Streak Stats Card -->
@@ -70,12 +76,6 @@ Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passio
   
 
 
-<!-- Profile Views Counter -->
-<div align="center" style="margin-top: 10px;">
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=alisha-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views of Alisha Reddy" />
-  </p>
-</div>
 
 
 
