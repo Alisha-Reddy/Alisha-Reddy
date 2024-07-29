@@ -58,29 +58,32 @@ Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passio
   </p>
 </div>
 
-<!-- GitHub Stats, Most Used Languages, and Streak Stats -->
- <!-- Container for GitHub Stats -->
-<div style="display: flex; justify-content: center; flex-wrap: wrap; max-width: 100%; margin: 20px auto; gap: 10px;">
-  
-  <!-- Most Used Languages Card -->
-  <div style="width: 100%; display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alisha-reddy&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Most used languages by Alisha Reddy" style="max-width: 100%; height: auto;" />
-  </div>
-
-  <!-- GitHub Stats and Streak Stats Container -->
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-
-    <!-- GitHub Stats Card -->
-  <div style="flex: 1; min-width: 300px; max-width: 300px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=alisha-reddy&show_icons=true&locale=en&theme=transparent" alt="GitHub stats for Alisha Reddy" style="width: 100%; height: auto;" />
-    </div>
-
-    <!-- GitHub Streak Stats Card -->
-  <div style="flex: 1; min-width: 300px; max-width: 300px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisha-reddy&theme=transparent" alt="GitHub streak stats for Alisha Reddy" style="width: 100%; height: auto;" />
-    </div>
-  </div>
+<!-- Most Used Languages Card -->
+<div style="text-align: center; margin-bottom: 20px;">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=alisha-reddy&show_icons=true&locale=en&layout=compact&theme=transparent"
+    alt="Most used languages by Alisha Reddy"
+    align="center"
+  />
 </div>
+
+<!-- GitHub Stats and Streak Stats Side by Side -->
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <!-- GitHub Stats Card -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=alisha-reddy&show_icons=true&locale=en&theme=transparent"
+    alt="GitHub stats for Alisha Reddy"
+    style="width: 49%;"
+  />
+
+  <!-- GitHub Streak Stats Card -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=alisha-reddy&theme=transparent"
+    alt="GitHub streak stats for Alisha Reddy"
+    style="width: 49%;"
+  />
+</div>
+
 
 
 
