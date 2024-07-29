@@ -1,8 +1,10 @@
-# 👋 Hello, World! I'm Alisha Reddy Kondapu
+# 👋 Hello there! 
 
-**`Blockchain Developer | Ethereum Enthusiast | Full-Stack Developer`**
+**`Future-Ready Developer | Bridging Blockchain and Full-Stack Technologies`**
 
-Welcome to my little corner of the GitHub universe! I'm Alisha, a passionate blockchain developer focused on creating innovative solutions with Ethereum and smart contracts. I thrive on turning complex problems into elegant code and building applications that push the boundaries of technology.
+Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passionate blockchain developer that specializes in designing new solutions using Ethereum and smart contracts. I enjoy solving challenging problems with elegant code and creating cutting-edge technological applications.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alisha-Reddy)](https://github.com/anuraghazra/github-readme-stats)
 
 > "In code we trust. Every line is an opportunity to make something incredible."
 
