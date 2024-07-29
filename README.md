@@ -52,7 +52,7 @@ Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passio
 
 ### 📊 GitHub Activity
 <!-- Profile Views Counter -->
-<div style="margin-top: 10px;">
+<div style="margin-top: 20px;">
   <p>
     <img src="https://komarev.com/ghpvc/?username=alisha-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views of Alisha Reddy" />
   </p>
