@@ -21,7 +21,6 @@ Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passio
   <img src="https://img.shields.io/badge/Hardhat-FF9000?style=for-the-badge&logo=hardhat&logoColor=black" alt="Hardhat" />
   <img src="https://img.shields.io/badge/Ethers.js-6E85B7?style=for-the-badge&logo=ethers.js&logoColor=white" alt="Ethers.js" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
-  <img src="https://img.shields.io/badge/Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/Brave_Browser-FB542B?style=for-the-badge&logo=brave&logoColor=white" alt="Brave browser" />
