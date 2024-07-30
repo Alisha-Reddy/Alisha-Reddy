@@ -7,7 +7,7 @@ Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passio
 
 ---
 
-### Things I code with
+### 💻 Things I code with
 
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 20px; max-width: 1200px; margin: auto;">
@@ -41,7 +41,7 @@ Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passio
 
 ---
 
-### Github trophies
+### 🏆 Github trophies
   <p>
     <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noopener noreferrer">
       <img src="https://github-profile-trophy.vercel.app/?username=alisha-reddy" alt="Trophy showcase for Alisha Reddy" />
