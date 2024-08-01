@@ -1,5 +1,5 @@
 ![Developer](https://github.com/Alisha-Reddy/Alisha-Reddy/blob/main/Github.png)
-# Hello there! 👋 
+# Hey there! 👋 
 
 **`Future-Ready Developer | Bridging Blockchain and Full-Stack Technologies`**
 
