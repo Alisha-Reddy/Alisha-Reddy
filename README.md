@@ -92,7 +92,7 @@ Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passio
 
 ---
 
-### 👩‍💻 Having fun coding
+### 👩‍💻 Learning solidity
 
 ```solidity
 // SPDX-License-Identifier: MIT
