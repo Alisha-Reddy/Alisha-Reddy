@@ -3,7 +3,7 @@
    
 **`Future-Ready Developer | Bridging Blockchain and Full-Stack Technologies`**   
  
-Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passionate blockchain developer that specializes in designing new solutions using Ethereum and smart contracts. I enjoy solving challenging problems with elegant code and creating cutting-edge technological applications.
+Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passionate blockchain developer that specializes in designing new solutions using Ethereum and smart contracts. I enjoy solving challenging problems with elegant code and creating cutting-edge technological applications. 
 
 --- 
 
