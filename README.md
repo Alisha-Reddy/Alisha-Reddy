@@ -77,7 +77,7 @@ Welcome to my tiny corner of the GitHub world! I'm Alisha from India, a passio
     style="width: 49%;"
   />
     
-  </div>
+  </div> 
 
   <!-- GitHub Streak Stats Card -->
   <div>
